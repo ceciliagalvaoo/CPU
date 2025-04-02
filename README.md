@@ -30,7 +30,7 @@ Cada instrução possui 12 bits:
 ```
 
 Exemplos que foram implementados:
-- `30A` → ADD 10
+- `30A` → LOAD 10
 - `332` → ADD 50
 - `3FF` → SUB 1 (complemento de dois)
 - `02C` → AND 60
