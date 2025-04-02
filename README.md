@@ -18,6 +18,7 @@
 - **ROM com instruções fixas** no formato de 12 bits: `4 bits para operação` + `8 bits para operando`.
 - **MUX de formatação final**: permite aplicar SHL ou SHR ao resultado da ALU antes de armazená-lo.
 - **Display de 7 segmentos e hexadecimal**: exibe o valor atual do acumulador de forma visual e interativa.
+- **Clear manual (PC e Registrador)**: permite reiniciar o contador e o acumulador com um botão de reset, facilitando testes e repetição da execução.
 
 ---
 
