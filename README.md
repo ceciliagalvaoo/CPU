@@ -61,7 +61,7 @@ A cada pulso de clock:
 
 ### 💻 Visual do Circuito
 
-![Visão geral do circuito da CPU](ImagemCPU.png)
+![Visão geral do circuito da CPU](imagemCPU.png)
 
 ---
 
