@@ -59,6 +59,12 @@ A cada pulso de clock:
 
 ---
 
+### 💻 Visual do Circuito
+
+![Visão geral do circuito da CPU](ImagemCPU.png)
+
+---
+
 ## 💡 Observações
 
 - O acumulador **não é resetado automaticamente** quando o PC volta a 0. Isso é o comportamento esperado em arquiteturas de 1 ciclo.
