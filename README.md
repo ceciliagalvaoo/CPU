@@ -68,7 +68,7 @@ A cada pulso de clock:
 
 ## 🧰 Tecnologias
 
-- Logisim (versão padrão ou Evolution)
+- Logisim (versão padrão)
 - Circuitos criados manualmente a partir de portas lógicas, multiplexadores, somadores, registradores, etc.
 
 ---
