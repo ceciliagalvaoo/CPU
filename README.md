@@ -1,6 +1,6 @@
 # 🧠 CPU Simplificada de 8 Bits – Logisim
 
-&emsp;Este projeto implementa uma **CPU de 8 bits com ciclo único**, construída do zero no simulador Logisim. A CPU é capaz de executar operações aritméticas e lógicas básicas a partir de instruções codificadas manualmente em uma memória ROM.
+&emsp;Este projeto implementa uma **CPU de 8 bits com ciclo único**, construída do zero no simulador Logisim. A CPU é capaz de executar operações aritméticas e lógicas básicas a partir de instruções codificadas manualmente em uma memória ROM, considerando a ALU que foi desenvolvida manualmente na atividade passada.
 
 ---
 
@@ -29,7 +29,7 @@ Cada instrução possui 12 bits:
 [ 4 bits de operação ][ 8 bits de operando ]
 ```
 
-Exemplo:
+Exemplos que foram implementados:
 - `30A` → ADD 10
 - `332` → ADD 50
 - `3FF` → SUB 1 (complemento de dois)
@@ -75,7 +75,7 @@ A cada pulso de clock:
 ## 🧰 Tecnologias
 
 - Logisim (versão padrão)
-- Circuitos criados manualmente a partir de portas lógicas, multiplexadores, somadores, registradores, etc.
+- Circuitos e blocos aritiméticos criados manualmente a partir de portas lógicas, multiplexadores, registradores, etc.
 
 ---
 
